@@ -21,8 +21,8 @@ There are a total of 9 stations that have been included in this study. The most 
 
 More results have been stored in app.py for queries
 
-### Daily Rainfall Average
-The planned trip's daily rainfall average has been calculated and ploted.<br/>
+### Daily Normals (Highest, Lowest and Average Temperature)
+The planned trip's daily temperature average has been calculated and ploted.<br/>
 ![daily_normals.png](Output/daily_normals.png)
 
 ### Paired versus Unpaired t-test 
