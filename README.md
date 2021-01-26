@@ -27,6 +27,6 @@ More results have been stored in app.py for queries.
 
 ### Paired versus Unpaired t-test 
 A paired t-test is used to compare the means of the same group under two different conditions, hence the total number of observations for each condition should be equal. 
-An unpaired t-test is used to compare the means of two independent groups. t-test returns a p-value to indicate whether the difference of the means is statistically significant or not. A p-value less than 0.05 can be considered as statistically significant.
+An unpaired t-test is used to compare the means of two independent groups. t-test returns a p-value to indicate whether the difference of the means is statistically significant or not. In statistics, a p-value less than 0.05 is considered as statistically significant.
 
-In this study, temperature in June and December are unrelated thus unpaired t-test should be used to compare their average temperatures. The average tempertures for June and December are 74.94 and 71.04, respectively. The unpaired t-test returned a p-value less than 0.001 (3.9 x 10^-191), indicating that the temperature difference between June and December is despite very small (only ~4 degree F) but statistically highly significant.
+In this study, temperature in June and December are unrelated thus unpaired t-test should be used to compare their average temperatures. The average tempertures for June and December are 74.94 and 71.04, respectively. The unpaired t-test returned a p-value less than 0.001 (3.9 x 10^-191), indicating that the temperature difference between month June and December is despite very small (only ~4 degree F) but statistically highly significant.
