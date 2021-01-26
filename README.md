@@ -13,7 +13,7 @@ This Homework analyzes the climate data (years of daily precipitation and temper
 
 
 ### Precipitation Analysis
-![precipitation.png](Output/precipitation.png)
+![precipitation.png](Output/Precipitation.png)
 
 ### Station Analysis
 There are a total of 9 stations that have been included in this study. The most active station is station USC00519281, WAIHEE 837.5, HI US. Its temperature observation for the last 12 months is shown below.
